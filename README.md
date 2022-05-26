@@ -1,3 +1,1 @@
-# Finance
-
-Including Computational Finance Methods
+# Computational Finance Methods
