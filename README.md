@@ -1,4 +1,4 @@
-# Numerical/Computational Methods in Finance
+# Numerical Methods in Finance
 
 - Project 1 - Random Number Generation
 
